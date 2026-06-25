@@ -1,6 +1,6 @@
 # Hi, I'm Saloni Aggarwal 👋
 
-## Data Analyst | Laravel Developer | Python | SQL | Power BI | AI & Data Science
+## Data Analyst | Python | SQL | Power BI | Machine Learning | Laravel Developer | PHP Develope
 
 Welcome to my GitHub profile!
 
